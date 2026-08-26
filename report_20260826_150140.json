@@ -1,0 +1,1178 @@
+{
+  "timestamp": "2026-08-26T14:58:58.433005",
+  "cpu": "",
+  "memory": "N/A",
+  "disk": [
+    {
+      "drive": "C:",
+      "total": 51.09,
+      "free": 255.39
+    }
+  ],
+  "services": [
+    {
+      "name": "AJRouter",
+      "state": "1"
+    },
+    {
+      "name": "ALG",
+      "state": "1"
+    },
+    {
+      "name": "AppIDSvc",
+      "state": "1"
+    },
+    {
+      "name": "Appinfo",
+      "state": "4"
+    },
+    {
+      "name": "AppMgmt",
+      "state": "1"
+    },
+    {
+      "name": "AppReadiness",
+      "state": "1"
+    },
+    {
+      "name": "AppVClient",
+      "state": "1"
+    },
+    {
+      "name": "AppXSvc",
+      "state": "4"
+    },
+    {
+      "name": "AssignedAccessManagerSvc",
+      "state": "1"
+    },
+    {
+      "name": "AudioEndpointBuilder",
+      "state": "4"
+    },
+    {
+      "name": "Audiosrv",
+      "state": "4"
+    },
+    {
+      "name": "autotimesvc",
+      "state": "1"
+    },
+    {
+      "name": "AxInstSV",
+      "state": "1"
+    },
+    {
+      "name": "BDESVC",
+      "state": "1"
+    },
+    {
+      "name": "BFE",
+      "state": "4"
+    },
+    {
+      "name": "BITS",
+      "state": "4"
+    },
+    {
+      "name": "brave",
+      "state": "1"
+    },
+    {
+      "name": "BraveElevationService",
+      "state": "1"
+    },
+    {
+      "name": "bravem",
+      "state": "1"
+    },
+    {
+      "name": "BrokerInfrastructure",
+      "state": "4"
+    },
+    {
+      "name": "BTAGService",
+      "state": "4"
+    },
+    {
+      "name": "BthAvctpSvc",
+      "state": "4"
+    },
+    {
+      "name": "bthserv",
+      "state": "4"
+    },
+    {
+      "name": "camsvc",
+      "state": "4"
+    },
+    {
+      "name": "CDPSvc",
+      "state": "4"
+    },
+    {
+      "name": "CertPropSvc",
+      "state": "1"
+    },
+    {
+      "name": "ClipSVC",
+      "state": "1"
+    },
+    {
+      "name": "cloudidsvc",
+      "state": "1"
+    },
+    {
+      "name": "com.docker.service",
+      "state": "1"
+    },
+    {
+      "name": "COMSysApp",
+      "state": "1"
+    },
+    {
+      "name": "CoreMessagingRegistrar",
+      "state": "4"
+    },
+    {
+      "name": "cphs",
+      "state": "1"
+    },
+    {
+      "name": "CryptSvc",
+      "state": "4"
+    },
+    {
+      "name": "CscService",
+      "state": "1"
+    },
+    {
+      "name": "DcomLaunch",
+      "state": "4"
+    },
+    {
+      "name": "dcsvc",
+      "state": "1"
+    },
+    {
+      "name": "defragsvc",
+      "state": "1"
+    },
+    {
+      "name": "DeviceAssociationService",
+      "state": "4"
+    },
+    {
+      "name": "DeviceInstall",
+      "state": "1"
+    },
+    {
+      "name": "DevQueryBroker",
+      "state": "1"
+    },
+    {
+      "name": "Dhcp",
+      "state": "4"
+    },
+    {
+      "name": "diagnosticshub.standardcollector.service",
+      "state": "1"
+    },
+    {
+      "name": "diagsvc",
+      "state": "1"
+    },
+    {
+      "name": "DiagTrack",
+      "state": "4"
+    },
+    {
+      "name": "DialogBlockingService",
+      "state": "1"
+    },
+    {
+      "name": "DiscordSystemHelper",
+      "state": "1"
+    },
+    {
+      "name": "DispBrokerDesktopSvc",
+      "state": "4"
+    },
+    {
+      "name": "DisplayEnhancementService",
+      "state": "4"
+    },
+    {
+      "name": "DmEnrollmentSvc",
+      "state": "1"
+    },
+    {
+      "name": "dmwappushservice",
+      "state": "1"
+    },
+    {
+      "name": "Dnscache",
+      "state": "4"
+    },
+    {
+      "name": "DoSvc",
+      "state": "4"
+    },
+    {
+      "name": "dot3svc",
+      "state": "1"
+    },
+    {
+      "name": "DPS",
+      "state": "4"
+    },
+    {
+      "name": "DSAService",
+      "state": "4"
+    },
+    {
+      "name": "DSAUpdateService",
+      "state": "4"
+    },
+    {
+      "name": "DsmSvc",
+      "state": "1"
+    },
+    {
+      "name": "DsSvc",
+      "state": "4"
+    },
+    {
+      "name": "DusmSvc",
+      "state": "4"
+    },
+    {
+      "name": "Eaphost",
+      "state": "1"
+    },
+    {
+      "name": "edgeupdate",
+      "state": "1"
+    },
+    {
+      "name": "edgeupdatem",
+      "state": "1"
+    },
+    {
+      "name": "EFS",
+      "state": "1"
+    },
+    {
+      "name": "embeddedmode",
+      "state": "1"
+    },
+    {
+      "name": "EntAppSvc",
+      "state": "1"
+    },
+    {
+      "name": "ESRV_SVC_QUEENCREEK",
+      "state": "4"
+    },
+    {
+      "name": "EventLog",
+      "state": "4"
+    },
+    {
+      "name": "EventSystem",
+      "state": "4"
+    },
+    {
+      "name": "Fax",
+      "state": "1"
+    },
+    {
+      "name": "fdPHost",
+      "state": "1"
+    },
+    {
+      "name": "FDResPub",
+      "state": "1"
+    },
+    {
+      "name": "fhsvc",
+      "state": "1"
+    },
+    {
+      "name": "FontCache",
+      "state": "4"
+    },
+    {
+      "name": "FrameServer",
+      "state": "4"
+    },
+    {
+      "name": "GameInputSvc",
+      "state": "1"
+    },
+    {
+      "name": "GoogleChromeElevationService",
+      "state": "1"
+    },
+    {
+      "name": "GoogleUpdaterInternalService152.0.7933.0",
+      "state": "1"
+    },
+    {
+      "name": "GoogleUpdaterService152.0.7933.0",
+      "state": "1"
+    },
+    {
+      "name": "gpsvc",
+      "state": "1"
+    },
+    {
+      "name": "GraphicsPerfSvc",
+      "state": "1"
+    },
+    {
+      "name": "HgClientService",
+      "state": "1"
+    },
+    {
+      "name": "hidserv",
+      "state": "4"
+    },
+    {
+      "name": "hns",
+      "state": "4"
+    },
+    {
+      "name": "HvHost",
+      "state": "4"
+    },
+    {
+      "name": "IBMPMSVC",
+      "state": "4"
+    },
+    {
+      "name": "icssvc",
+      "state": "1"
+    },
+    {
+      "name": "igfxCUIService2.0.0.0",
+      "state": "4"
+    },
+    {
+      "name": "IKEEXT",
+      "state": "4"
+    },
+    {
+      "name": "InstallService",
+      "state": "4"
+    },
+    {
+      "name": "Intel(R) SUR QC SAM",
+      "state": "1"
+    },
+    {
+      "name": "iphlpsvc",
+      "state": "4"
+    },
+    {
+      "name": "IpxlatCfgSvc",
+      "state": "1"
+    },
+    {
+      "name": "KeyIso",
+      "state": "4"
+    },
+    {
+      "name": "KtmRm",
+      "state": "1"
+    },
+    {
+      "name": "LanmanServer",
+      "state": "4"
+    },
+    {
+      "name": "LanmanWorkstation",
+      "state": "4"
+    },
+    {
+      "name": "Lenovo Instant On",
+      "state": "4"
+    },
+    {
+      "name": "lfsvc",
+      "state": "4"
+    },
+    {
+      "name": "LicenseManager",
+      "state": "4"
+    },
+    {
+      "name": "lltdsvc",
+      "state": "1"
+    },
+    {
+      "name": "lmhosts",
+      "state": "4"
+    },
+    {
+      "name": "LSM",
+      "state": "4"
+    },
+    {
+      "name": "LxpSvc",
+      "state": "1"
+    },
+    {
+      "name": "LxssManager",
+      "state": "1"
+    },
+    {
+      "name": "MapsBroker",
+      "state": "1"
+    },
+    {
+      "name": "McpManagementService",
+      "state": "1"
+    },
+    {
+      "name": "MDCoreSvc",
+      "state": "4"
+    },
+    {
+      "name": "MicrosoftEdgeElevationService",
+      "state": "1"
+    },
+    {
+      "name": "MixedRealityOpenXRSvc",
+      "state": "1"
+    },
+    {
+      "name": "mpssvc",
+      "state": "4"
+    },
+    {
+      "name": "MSDTC",
+      "state": "1"
+    },
+    {
+      "name": "MSiSCSI",
+      "state": "1"
+    },
+    {
+      "name": "msiserver",
+      "state": "1"
+    },
+    {
+      "name": "MsKeyboardFilter",
+      "state": "1"
+    },
+    {
+      "name": "NaturalAuthentication",
+      "state": "1"
+    },
+    {
+      "name": "NcaSvc",
+      "state": "1"
+    },
+    {
+      "name": "NcbService",
+      "state": "4"
+    },
+    {
+      "name": "NcdAutoSetup",
+      "state": "1"
+    },
+    {
+      "name": "Netlogon",
+      "state": "1"
+    },
+    {
+      "name": "Netman",
+      "state": "4"
+    },
+    {
+      "name": "netprofm",
+      "state": "4"
+    },
+    {
+      "name": "NetSetupSvc",
+      "state": "1"
+    },
+    {
+      "name": "NetTcpPortSharing",
+      "state": "1"
+    },
+    {
+      "name": "NgcCtnrSvc",
+      "state": "1"
+    },
+    {
+      "name": "NgcSvc",
+      "state": "1"
+    },
+    {
+      "name": "NlaSvc",
+      "state": "4"
+    },
+    {
+      "name": "nsi",
+      "state": "4"
+    },
+    {
+      "name": "nvagent",
+      "state": "4"
+    },
+    {
+      "name": "ose64",
+      "state": "1"
+    },
+    {
+      "name": "p2pimsvc",
+      "state": "1"
+    },
+    {
+      "name": "p2psvc",
+      "state": "1"
+    },
+    {
+      "name": "PcaSvc",
+      "state": "4"
+    },
+    {
+      "name": "PeerDistSvc",
+      "state": "1"
+    },
+    {
+      "name": "PEMHTTPD-x64",
+      "state": "4"
+    },
+    {
+      "name": "perceptionsimulation",
+      "state": "1"
+    },
+    {
+      "name": "PerfHost",
+      "state": "1"
+    },
+    {
+      "name": "pgagent-pg18",
+      "state": "4"
+    },
+    {
+      "name": "PhoneSvc",
+      "state": "4"
+    },
+    {
+      "name": "pla",
+      "state": "1"
+    },
+    {
+      "name": "PlugPlay",
+      "state": "4"
+    },
+    {
+      "name": "PNRPAutoReg",
+      "state": "1"
+    },
+    {
+      "name": "PNRPsvc",
+      "state": "1"
+    },
+    {
+      "name": "PolicyAgent",
+      "state": "1"
+    },
+    {
+      "name": "postgresql-x64-18",
+      "state": "4"
+    },
+    {
+      "name": "Power",
+      "state": "4"
+    },
+    {
+      "name": "PrintNotify",
+      "state": "1"
+    },
+    {
+      "name": "ProfSvc",
+      "state": "4"
+    },
+    {
+      "name": "PushToInstall",
+      "state": "1"
+    },
+    {
+      "name": "QWAVE",
+      "state": "4"
+    },
+    {
+      "name": "RasAuto",
+      "state": "1"
+    },
+    {
+      "name": "RasMan",
+      "state": "4"
+    },
+    {
+      "name": "RemoteAccess",
+      "state": "1"
+    },
+    {
+      "name": "RemoteRegistry",
+      "state": "1"
+    },
+    {
+      "name": "RetailDemo",
+      "state": "1"
+    },
+    {
+      "name": "RmSvc",
+      "state": "4"
+    },
+    {
+      "name": "RpcEptMapper",
+      "state": "4"
+    },
+    {
+      "name": "RpcLocator",
+      "state": "1"
+    },
+    {
+      "name": "RpcSs",
+      "state": "4"
+    },
+    {
+      "name": "SamSs",
+      "state": "4"
+    },
+    {
+      "name": "SCardSvr",
+      "state": "1"
+    },
+    {
+      "name": "ScDeviceEnum",
+      "state": "1"
+    },
+    {
+      "name": "Schedule",
+      "state": "4"
+    },
+    {
+      "name": "SCPolicySvc",
+      "state": "1"
+    },
+    {
+      "name": "SDRSVC",
+      "state": "1"
+    },
+    {
+      "name": "seclogon",
+      "state": "1"
+    },
+    {
+      "name": "SecurityHealthService",
+      "state": "4"
+    },
+    {
+      "name": "SEMgrSvc",
+      "state": "1"
+    },
+    {
+      "name": "SENS",
+      "state": "4"
+    },
+    {
+      "name": "Sense",
+      "state": "1"
+    },
+    {
+      "name": "SensorDataService",
+      "state": "1"
+    },
+    {
+      "name": "SensorService",
+      "state": "4"
+    },
+    {
+      "name": "SensrSvc",
+      "state": "4"
+    },
+    {
+      "name": "SessionEnv",
+      "state": "1"
+    },
+    {
+      "name": "SharedAccess",
+      "state": "4"
+    },
+    {
+      "name": "SharedRealitySvc",
+      "state": "1"
+    },
+    {
+      "name": "ShellHWDetection",
+      "state": "4"
+    },
+    {
+      "name": "shpamsvc",
+      "state": "1"
+    },
+    {
+      "name": "smphost",
+      "state": "1"
+    },
+    {
+      "name": "SmsRouter",
+      "state": "1"
+    },
+    {
+      "name": "SNMPTRAP",
+      "state": "1"
+    },
+    {
+      "name": "spectrum",
+      "state": "1"
+    },
+    {
+      "name": "Spooler",
+      "state": "4"
+    },
+    {
+      "name": "sppsvc",
+      "state": "1"
+    },
+    {
+      "name": "SSDPSRV",
+      "state": "4"
+    },
+    {
+      "name": "ssh-agent",
+      "state": "1"
+    },
+    {
+      "name": "SstpSvc",
+      "state": "4"
+    },
+    {
+      "name": "StateRepository",
+      "state": "4"
+    },
+    {
+      "name": "stisvc",
+      "state": "4"
+    },
+    {
+      "name": "StorSvc",
+      "state": "4"
+    },
+    {
+      "name": "svsvc",
+      "state": "1"
+    },
+    {
+      "name": "swprv",
+      "state": "1"
+    },
+    {
+      "name": "SynTPEnhService",
+      "state": "4"
+    },
+    {
+      "name": "SysMain",
+      "state": "4"
+    },
+    {
+      "name": "SystemEventsBroker",
+      "state": "4"
+    },
+    {
+      "name": "SystemUsageReportSvc_QUEENCREEK",
+      "state": "4"
+    },
+    {
+      "name": "TabletInputService",
+      "state": "4"
+    },
+    {
+      "name": "TapiSrv",
+      "state": "4"
+    },
+    {
+      "name": "TermService",
+      "state": "1"
+    },
+    {
+      "name": "Themes",
+      "state": "4"
+    },
+    {
+      "name": "TieringEngineService",
+      "state": "1"
+    },
+    {
+      "name": "TimeBrokerSvc",
+      "state": "4"
+    },
+    {
+      "name": "TokenBroker",
+      "state": "4"
+    },
+    {
+      "name": "TrkWks",
+      "state": "4"
+    },
+    {
+      "name": "TroubleshootingSvc",
+      "state": "1"
+    },
+    {
+      "name": "TrustedInstaller",
+      "state": "1"
+    },
+    {
+      "name": "tzautoupdate",
+      "state": "1"
+    },
+    {
+      "name": "UevAgentService",
+      "state": "1"
+    },
+    {
+      "name": "UmRdpService",
+      "state": "1"
+    },
+    {
+      "name": "upnphost",
+      "state": "1"
+    },
+    {
+      "name": "UserManager",
+      "state": "4"
+    },
+    {
+      "name": "USER_ESRV_SVC_QUEENCREEK",
+      "state": "1"
+    },
+    {
+      "name": "UsoSvc",
+      "state": "4"
+    },
+    {
+      "name": "VacSvc",
+      "state": "1"
+    },
+    {
+      "name": "VaultSvc",
+      "state": "4"
+    },
+    {
+      "name": "vds",
+      "state": "1"
+    },
+    {
+      "name": "vmcompute",
+      "state": "4"
+    },
+    {
+      "name": "vmicguestinterface",
+      "state": "1"
+    },
+    {
+      "name": "vmicheartbeat",
+      "state": "1"
+    },
+    {
+      "name": "vmickvpexchange",
+      "state": "1"
+    },
+    {
+      "name": "vmicrdv",
+      "state": "1"
+    },
+    {
+      "name": "vmicshutdown",
+      "state": "1"
+    },
+    {
+      "name": "vmictimesync",
+      "state": "1"
+    },
+    {
+      "name": "vmicvmsession",
+      "state": "1"
+    },
+    {
+      "name": "vmicvss",
+      "state": "1"
+    },
+    {
+      "name": "vmms",
+      "state": "4"
+    },
+    {
+      "name": "VSInstallerElevationService",
+      "state": "1"
+    },
+    {
+      "name": "VSS",
+      "state": "1"
+    },
+    {
+      "name": "W32Time",
+      "state": "1"
+    },
+    {
+      "name": "WaaSMedicSvc",
+      "state": "4"
+    },
+    {
+      "name": "WalletService",
+      "state": "1"
+    },
+    {
+      "name": "WarpJITSvc",
+      "state": "1"
+    },
+    {
+      "name": "wbengine",
+      "state": "1"
+    },
+    {
+      "name": "WbioSrvc",
+      "state": "1"
+    },
+    {
+      "name": "Wcmsvc",
+      "state": "4"
+    },
+    {
+      "name": "wcncsvc",
+      "state": "1"
+    },
+    {
+      "name": "WdiServiceHost",
+      "state": "4"
+    },
+    {
+      "name": "WdiSystemHost",
+      "state": "4"
+    },
+    {
+      "name": "WdNisSvc",
+      "state": "4"
+    },
+    {
+      "name": "WebClient",
+      "state": "1"
+    },
+    {
+      "name": "Wecsvc",
+      "state": "1"
+    },
+    {
+      "name": "WEPHOSTSVC",
+      "state": "1"
+    },
+    {
+      "name": "wercplsupport",
+      "state": "1"
+    },
+    {
+      "name": "WerSvc",
+      "state": "1"
+    },
+    {
+      "name": "WFDSConMgrSvc",
+      "state": "1"
+    },
+    {
+      "name": "WiaRpc",
+      "state": "1"
+    },
+    {
+      "name": "WinDefend",
+      "state": "4"
+    },
+    {
+      "name": "WinHttpAutoProxySvc",
+      "state": "4"
+    },
+    {
+      "name": "Winmgmt",
+      "state": "4"
+    },
+    {
+      "name": "WinRM",
+      "state": "1"
+    },
+    {
+      "name": "wisvc",
+      "state": "1"
+    },
+    {
+      "name": "WlanSvc",
+      "state": "4"
+    },
+    {
+      "name": "wlidsvc",
+      "state": "1"
+    },
+    {
+      "name": "wlpasvc",
+      "state": "1"
+    },
+    {
+      "name": "WManSvc",
+      "state": "1"
+    },
+    {
+      "name": "wmiApSrv",
+      "state": "1"
+    },
+    {
+      "name": "WMPNetworkSvc",
+      "state": "1"
+    },
+    {
+      "name": "workfolderssvc",
+      "state": "1"
+    },
+    {
+      "name": "WpcMonSvc",
+      "state": "1"
+    },
+    {
+      "name": "WPDBusEnum",
+      "state": "1"
+    },
+    {
+      "name": "WpnService",
+      "state": "4"
+    },
+    {
+      "name": "wscsvc",
+      "state": "4"
+    },
+    {
+      "name": "WSearch",
+      "state": "4"
+    },
+    {
+      "name": "WslInstaller",
+      "state": "1"
+    },
+    {
+      "name": "WSLService",
+      "state": "4"
+    },
+    {
+      "name": "wuauserv",
+      "state": "1"
+    },
+    {
+      "name": "WwanSvc",
+      "state": "1"
+    },
+    {
+      "name": "XblAuthManager",
+      "state": "1"
+    },
+    {
+      "name": "XblGameSave",
+      "state": "1"
+    },
+    {
+      "name": "XboxGipSvc",
+      "state": "1"
+    },
+    {
+      "name": "XboxNetApiSvc",
+      "state": "1"
+    },
+    {
+      "name": "ZoomCptService",
+      "state": "4"
+    },
+    {
+      "name": "AarSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "BcastDVRUserService_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "BluetoothUserService_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "CaptureService_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "cbdhsvc_a02932e",
+      "state": "4"
+    },
+    {
+      "name": "CDPUserSvc_a02932e",
+      "state": "4"
+    },
+    {
+      "name": "ConsentUxUserSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "CredentialEnrollmentManagerUserSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "DeviceAssociationBrokerSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "DevicePickerUserSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "DevicesFlowUserSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "LxssManagerUser_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "MessagingService_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "OneSyncSvc_a02932e",
+      "state": "4"
+    },
+    {
+      "name": "PimIndexMaintenanceSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "PrintWorkflowUserSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "UdkUserSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "UnistoreSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "UserDataSvc_a02932e",
+      "state": "1"
+    },
+    {
+      "name": "WpnUserService_a02932e",
+      "state": "4"
+    }
+  ]
+}
